@@ -5,7 +5,7 @@ Even the graphics on the website (logo and background image) are my own creation
 
 ### Documentation
 
-I used [Bootstrap](https://getbootstrap.com/) to create this project, in particular I select this Theme [Freelance](https://blackrockdigital.github.io/startbootstrap-freelancer/) and I adapted it according to my needs.
+I used [Bootstrap](https://getbootstrap.com/) to create this project, in particular I select this [Theme](https://blackrockdigital.github.io/startbootstrap-freelancer/) and I adapted it according to my needs.
 
 Below I quickly illustrate the procedure I followed:
 
